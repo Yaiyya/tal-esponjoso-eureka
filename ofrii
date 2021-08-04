@@ -1,0 +1,7 @@
+Las variables: son apartir del concepto basico guardar algo en un lugar donde yo despues lo pueda encontrar o recuperar, a estas se les da un nombre y mediante el igual se le asigna una valor.
+Los strings: trata de un hilo de letras o mas bien de caracteres que van siempre entre comillas
+Las funciones: basicamente es la agrupacion de ciertos codigos con o sin valor los cuales se pueden modificar 
+Estas funciones se les da un argumento que puede o no ya anteriormente tener un cierto valor
+por ejemplo:
+console.log (´jajaaj´)
+lo que esta entre parentesis y comillas es el argumento de la funcion
